@@ -1,0 +1,38 @@
+
+<h1>See all the elements I’ve learned in this course.</h1>
+<ul>
+<li><h2> Heading Element h1-h6</h2></li>
+</ul>
+<img src="images/heading .png" alt="heading element"/>
+<ul>
+    <li><h2>Paraghrap Element</h2></li>
+</ul>
+<img src="images/paragraph.png" alt=paragraph element/>
+<ul>
+<li><h2>image element</h2></li>
+</ul>
+<img src="./images/image.png" alt="image element"/>
+<ul>
+<li><h2>List Element</h2></li>
+</ul>
+<img src="./images/list element .png" alt="list element"/>
+<ul>
+<li><h2>Horizontal Element</h2></li>
+</ul>
+<img src=""
+<ul>
+<li><h2>Line Break</h2></li>
+</ul>
+<img src=""
+<ul>
+<li><h2>a-Links</h2></li>
+</ul>
+<img src="./images/anchor .png" alt="anchor link"/>
+<ul>
+<li><h2>./Current folder path</h2></li>
+</ul>
+<img src=""
+<ul>
+<li><h2>../ – Parent folder path</h2></li>
+</ul>
+<img src=""
